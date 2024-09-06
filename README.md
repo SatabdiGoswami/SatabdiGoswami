@@ -1,1 +1,3 @@
+
+About me:
 🔭 I’m Satabdi Goswami, a driven Computer Science undergrad at NIT Agartala, with a strong passion for software engineering. I thrive in mastering DSA, Competitive Programming, Web Development, and the fundamentals of Machine Learning. My enthusiasm for continuous learning fuels my journey, empowering me to tackle challenges and refine my skills for peak performance. I’m always on the lookout for opportunities to collaborate and grow in the tech industry. Currently, I’m diving into personal projects 🌱, eager to make an impact. .
